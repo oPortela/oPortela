@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com banco de dados Oracle;
 - 🌱 Estou estudando HTML5, CSS3 e JavaScript;
-- 
+
 ## 🛠️ Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="oPortela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
