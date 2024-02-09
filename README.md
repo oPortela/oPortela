@@ -11,7 +11,7 @@
   <img align="center" alt="oPortela-Oracle" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img align="center" alt="oPortela-Figma" height="30" width="40" 
 src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> 
-  <img align="center" alt="oPortela-Python" height="30" width="40" 
+  <img align="center" alt="oPortela-Python" height="30" width="30" 
 src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png">    
 </div>
   
