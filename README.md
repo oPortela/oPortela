@@ -1,7 +1,7 @@
 ### Olá! Muito prazer, seja bem-vindo(a). 👋
 
-- 🔭 Hoje trabalho com banco de dados Oracle;
-- 🌱 Estou estudando HTML5, CSS3 e JavaScript;
+- 🔭 Hoje trabalho com banco de dados Oracle nas linguagens de SQL e PL/SQL;
+- 🌱 Atualmente meus estudos estão voltados em SQL Server, Power BI e Python para modelagem e análise de dados;
 
 ## 🛠️ Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
