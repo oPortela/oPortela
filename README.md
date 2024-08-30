@@ -40,8 +40,3 @@ src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/oPortela/count.svg?"  />
-</div>
-
-###
