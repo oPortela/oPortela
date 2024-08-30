@@ -35,8 +35,4 @@ src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-
 </div>
 
 ###
-<div align="letf">
-  <img src="https://raw.githubusercontent.com/oPortela/oPortela/output/snake.svg" alt="Snake animation" />
-</div>
-###
 
