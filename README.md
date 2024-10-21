@@ -3,6 +3,13 @@
 - 🔭 Hoje trabalho com banco de dados Oracle nas linguagens de SQL e PL/SQL e desenvolvimento de rotinas em Delphi;
 - 🌱 Atualmente meus estudos estão voltados em SQL Server, Power BI e Python para modelagem e análise de dados;
 
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
 ## 🛠️ Tecnologias e Ferramentas:
 <div style="display: inline_block"><br>
   <img align="center" alt="oPortela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
