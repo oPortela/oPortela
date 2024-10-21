@@ -2,8 +2,6 @@
 
 - 🔭 Hoje trabalho com banco de dados Oracle nas linguagens de SQL e PL/SQL e desenvolvimento de rotinas em Delphi;
 - 🌱 Atualmente meus estudos estão voltados em SQL Server, Power BI e Python para modelagem e análise de dados;
-
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
 
   
