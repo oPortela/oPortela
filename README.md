@@ -40,10 +40,3 @@ src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oPortela/oPortela/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oPortela/oPortela/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oPortela/oPortela/output/pacman-contribution-graph.svg">
-</picture>
-
