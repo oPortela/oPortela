@@ -18,7 +18,7 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12"/>
-  <img align="center" alt="oPortela-Figma" height="30" width="40" 
+  <img align="center" alt="oPortela-Figma" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> 
 </div>
 
 ## Databases
